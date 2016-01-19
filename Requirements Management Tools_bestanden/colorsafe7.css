@@ -1,0 +1,193 @@
+H1  {
+clear:	right;
+color:	#456060;
+font-family:	Verdana, Arial, Sans-Serif;
+font-size:	125%;
+font-weight:	bold;
+margin-top:	8px;
+}
+
+H2  {
+color:	#456060;
+font-family:	Verdana, Arial, Sans-Serif;
+font-size:	110%;
+font-weight:	bold;
+}
+
+H3.book  {
+color:	#456060;
+font-family:	Verdana, Arial, Sans-Serif;
+font-size:	110%;
+font-weight:	bold;
+}
+
+a.headlink  {
+}
+
+alink  {
+}
+
+blockquote.inset  {
+margin-left:	5%;
+padding:	4px;
+width:	85%;
+}
+
+body  {
+background-color:	#fdf5e6;
+background-image:	url("stripe.gif");
+background-repeat:	repeat;
+font-family:	Arial, Sans-Serif;
+font-size:	90%;
+}
+
+div.all  {
+background-color:	#fdf5e6;
+padding:	8px;
+width:	650px;
+}
+
+div.text  {
+left:	124px;
+width:	450;
+}
+
+h4  {
+color:	#456060;
+font-family:	Arial, Sans-Serif;
+font-size:	120%;
+font-weight:	bold;
+}
+
+li.main  {
+background-position:	center center;
+padding:	4px;
+}
+
+link  {
+color:	#009;
+text-decoration:	underline;
+}
+
+p.body  {
+padding:	4px;
+}
+
+p.date  {
+color:	#603311;
+font-family:	Times New Roman, Serif;
+font-size:	8pt;
+}
+
+p.linklist  {
+width:	60%;
+}
+
+table.advert  {
+background-color:	#fdf5e6;
+background-position:	center center;
+float:	left;
+font-family:	Verdana, Arial, Sans-Serif;
+padding-right:	4px;
+width:	124;
+}
+
+table.horror  {
+font-family:	Arial, Sans-Serif;
+}
+
+table.logo  {
+background-color:	#EFFFE1;
+background-image:	url("tiger_a.jpg");
+background-position:	left center;
+background-repeat:	no-repeat;
+border-color:	#990;
+border-style:	solid;
+border-width:	1px;
+float:	right;
+height:	46px;
+text-align:	right;
+width:	325;
+}
+
+table.navbar  {
+background-color:	#Ffd5b6;
+background-repeat:	no-repeat;
+border-color:	#990;
+border-style:	solid;
+border-width:	1px;
+font-family:	Tahoma, Verdana, Arial, Sans-Serif;
+font-size:	60%;
+font-variant:	small-caps;
+height:	20px;
+margin:	1px;
+padding:	2px;
+text-align:	center;
+width:	650px;
+}
+
+table.other  {
+background-color:	c9ebd;
+}
+
+td.adfive  {
+background-color:	#ffffe0;
+font-size:	smaller;
+}
+
+td.adfour  {
+background-color:	#d8ecdd;
+background-position:	center center;
+font-size:	smaller;
+text-align:	center;
+}
+
+td.adhead  {
+color:	#d2b48c;
+font-family:	Verdana, Arial, Sans-Serif;
+font-size:	8pt;
+font-style:	italic;
+text-align:	center;
+}
+
+td.adone  {
+background-color:	#ffffcc;
+font-size:	smaller;
+text-align:	center;
+}
+
+td.adsix  {
+background-color:	#fdf5e6;
+background-position:	center center;
+font-size:	8pt;
+text-align:	left;
+}
+
+td.adthree  {
+background-color:	#d6cfeb;
+background-position:	center center;
+font-size:	smaller;
+text-align:	center;
+}
+
+td.adtwo  {
+background-color:	#d0f6e8;
+background-position:	center center;
+font-size:	smaller;
+text-align:	center;
+}
+
+td.body  {
+font-family:	Arial, Sans-Serif;
+font-size:	90%;
+}
+
+td.horror  {
+font-family:	Arial, Sans-Serif;
+font-size:	90%;
+}
+
+vlink  {
+color:	#969;
+text-decoration:	underline;
+}
